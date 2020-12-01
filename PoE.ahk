@@ -1,8 +1,6 @@
 #SingleInstance force
-;#IfWinActive, ahk_class POEWindowClass
+#IfWinActive, ahk_class POEWindowClass
 
-;1293, 613
-;1295, 667
 x = 1293
 y = 613
 
